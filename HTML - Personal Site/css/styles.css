@@ -1,0 +1,21 @@
+body {
+  background-color: #f1f3f4;
+  font-family: monospace;
+  color: #512b58;
+  text-align: left;
+
+
+}
+
+h1,h2,h3 {
+  color: #2a7886;
+}
+
+hr  {
+  
+  width: 7%;
+  border-style: dotted none none;
+  border-color: lightgrey;
+  border-width:7px;
+
+}
